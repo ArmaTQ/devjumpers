@@ -87,7 +87,7 @@ posicionarse en master y hacer merge con branch v0.2
     git merge v0.2
     'no se puede mergear, salta error'
 
-investigacion de comandos --merged y --n-merged
+investigacion de comandos --merged y --no-merged
 
     git branch --merged 
     'muestra la lista de ramas con merge'
@@ -124,13 +124,13 @@ puse foto de perfil y active doble factor con authy
 Tabla de compañeros
 
 Nombre                  Link GitHub
-Leandro Cuevas https://github.com/leandro-cuevas
-Franco Formigo https://github.com/francobenjaminformigo/devjumpers
-Camilacalegari https://github.com/camilacalegari
+    Leandro Cuevas https://github.com/leandro-cuevas
+    Franco Formigo https://github.com/francobenjaminformigo/devjumpers
+    Camilacalegari https://github.com/camilacalegari
 
 Colaborador elegido
 
-Leandro Cuevas
+    Leandro Cuevas
 
 
 

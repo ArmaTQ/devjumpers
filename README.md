@@ -123,11 +123,12 @@ puse foto de perfil y active doble factor con authy
 
 Tabla de compañeros
 
-Nombre                  Link GitHub
+Nombre               Link GitHub
+```
     Leandro Cuevas  https://github.com/leandro-cuevas
     Franco Formigo  https://github.com/francobenjaminformigo/devjumpers
     Camilacalegari  https://github.com/camilacalegari
-
+```
 
 Colaborador elegido
 
